@@ -1,0 +1,11 @@
+C:\Users\Søren\source\repos\MartinsFrelser\MartinsFrelser\bin\Debug\netcoreapp2.0\MartinsFrelser.deps.json
+C:\Users\Søren\source\repos\MartinsFrelser\MartinsFrelser\bin\Debug\netcoreapp2.0\MartinsFrelser.runtimeconfig.json
+C:\Users\Søren\source\repos\MartinsFrelser\MartinsFrelser\bin\Debug\netcoreapp2.0\MartinsFrelser.runtimeconfig.dev.json
+C:\Users\Søren\source\repos\MartinsFrelser\MartinsFrelser\bin\Debug\netcoreapp2.0\MartinsFrelser.dll
+C:\Users\Søren\source\repos\MartinsFrelser\MartinsFrelser\bin\Debug\netcoreapp2.0\MartinsFrelser.pdb
+C:\Users\Søren\source\repos\MartinsFrelser\MartinsFrelser\obj\Debug\netcoreapp2.0\MartinsFrelser.csprojResolveAssemblyReference.cache
+C:\Users\Søren\source\repos\MartinsFrelser\MartinsFrelser\obj\Debug\netcoreapp2.0\MartinsFrelser.csproj.CoreCompileInputs.cache
+C:\Users\Søren\source\repos\MartinsFrelser\MartinsFrelser\obj\Debug\netcoreapp2.0\MartinsFrelser.AssemblyInfoInputs.cache
+C:\Users\Søren\source\repos\MartinsFrelser\MartinsFrelser\obj\Debug\netcoreapp2.0\MartinsFrelser.AssemblyInfo.cs
+C:\Users\Søren\source\repos\MartinsFrelser\MartinsFrelser\obj\Debug\netcoreapp2.0\MartinsFrelser.dll
+C:\Users\Søren\source\repos\MartinsFrelser\MartinsFrelser\obj\Debug\netcoreapp2.0\MartinsFrelser.pdb
